@@ -1,0 +1,2 @@
+# NIVA
+Smart homes application 
